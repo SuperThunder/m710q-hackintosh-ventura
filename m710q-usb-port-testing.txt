@@ -1,0 +1,23 @@
+22 ports
+
+USB testing w sandisk USB
+
+Front left: 21 / USB3
+Front Right: 22 / USB3
+Rear from left
+Rear 1: 20 / USB3
+Rear 2: 19 / USB3
+Rear 3: 18 / USB3
+Rear 4: 17 / USB3
+
+Port 3: Intel Wireless Bluetooth / USB1.1
+
+Test with USB2 keyboard receiver:
+Front USB2: 12/11 L/R
+Rear L->R: 8/7/6/5
+
+
+
+
+
+
