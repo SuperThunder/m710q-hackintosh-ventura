@@ -6,6 +6,7 @@ Guides used:
 - https://dortania.github.io/OpenCore-Post-Install/#how-to-follow-this-guide
 
 # Important notes
+- You must update config.plist to your own MLB, ROM (system MAC address), Serial, and UUID
 - My M710q came with an addon DisplayPort. This doesn't work in macOS! One of the motherboard DisplayPorts needs to be used.
 - Whenever I use it with my TV I need to switch the TV to a different HDMI a couple of times after turning the M710q on to get macOS display working
     - Similarly, if you have trouble getting a display output with a monitor, try plugging and unplugging the cable and try all your ports
